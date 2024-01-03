@@ -1,11 +1,30 @@
-# Piano App
+# Piano-Simulator-Web-Application
 
-A tiny piano keyboard with 12 notes.
+## Overview
+The Piano App is a TypeScript-based web application that simulates piano keys and sounds. It ensures a responsive and interactive musical experience within a web browser, allowing users to play notes by clicking on keys or using their keyboard.
 
-## Run locally
+## Features
+- Visual representation of a single-octave piano keyboard.
+- Playback of piano sounds on key interaction.
+- Type safety with TypeScript interfaces and types.
+- Efficient event listener setup for key interactions.
+- Graceful error handling for audio playback issues.
 
-- Clone this repository.
-- Navigate to the project directory.
-- Install dependencies using `pnpm install`.
-- Start the development server with `pnpm dev`.
-- Open your browser and navigate to http://localhost:5173.
+## Files
+- `main.ts`: Main TypeScript file handling application logic.
+- `model.ts`: Defines TypeScript types and interfaces for the app.
+- `style.css`: Contains styles for the app's presentation.
+- `vite-env.d.ts`: Vite environment declaration file.
+- Configuration files like `package.json`, `tsconfig.json`, `vite.config.js` ensure proper build setup.
+
+## Tech Stack
+- TypeScript
+- CSS
+- Vite.js
+
+## Libraries/Dependencies
+- Listed in `package.json` and managed with `pnpm`.
+
+## Installation
+git clone https://github.com/benchang323/Piano-Simulator-Web-Application.git
+cd Piano-Simulator-Web-Application
