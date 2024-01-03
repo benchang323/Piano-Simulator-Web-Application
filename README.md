@@ -1,4 +1,4 @@
-# Piano-Simulator-Web-Application
+# Piano Simulator Web Application
 
 ## Overview
 The Piano App is a TypeScript-based web application that simulates piano keys and sounds. It ensures a responsive and interactive musical experience within a web browser, allowing users to play notes by clicking on keys or using their keyboard.
@@ -26,5 +26,7 @@ The Piano App is a TypeScript-based web application that simulates piano keys an
 - Listed in `package.json` and managed with `pnpm`.
 
 ## Installation
+```
 git clone https://github.com/benchang323/Piano-Simulator-Web-Application.git
 cd Piano-Simulator-Web-Application
+```
