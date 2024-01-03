@@ -30,3 +30,6 @@ The Piano App is a TypeScript-based web application that simulates piano keys an
 git clone https://github.com/benchang323/Piano-Simulator-Web-Application.git
 cd Piano-Simulator-Web-Application
 ```
+
+## Demo
+https://cs280fa23-coursework.github.io/homework-4-piano-app-benchang323/
