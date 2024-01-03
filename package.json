@@ -1,0 +1,27 @@
+{
+  "name": "piano-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "prettier": "prettier --write \"src/**/*.{js,ts}\" --config \".prettierrc.json\"",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "prettier": "3.0.3",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11"
+  },
+  "dependencies": {
+    "normalize-path": "^3.0.0",
+    "pnpm": "^8.9.2",
+    "prune": "^0.0.2",
+    "store": "^2.0.12"
+  }
+}
